@@ -56,4 +56,14 @@ Project name:- Department Student Information System.
     Conclusion:- This project documentation has described the requirements, design, implementation, and testing of a department student information system. The system will 
      be a valuable asset to the department, providing a central location to manage all aspects of student information.
 
+     ## Screenshots
+
+     <img width="523" alt="Add a student" src="https://github.com/riaj786/c-project-1st-semester/assets/143274836/00746dd5-1a36-4cd1-b888-64c9a8ed8612">
+     <img width="563" alt="Authority" src="https://github.com/riaj786/c-project-1st-semester/assets/143274836/d5f0695b-f6b9-4618-bb4b-053377086bb4">
+     <img width="745" alt="Batch wise info" src="https://github.com/riaj786/c-project-1st-semester/assets/143274836/9df60f0f-754f-474a-bb2c-0621b4ee2b25">
+     <img width="422" alt="Fill information " src="https://github.com/riaj786/c-project-1st-semester/assets/143274836/4031c132-b54c-410d-9559-487110c1f662">
+     <img width="411" alt="Individual information " src="https://github.com/riaj786/c-project-1st-semester/assets/143274836/fb9ce871-0d99-41f6-9912-1f353dda5a7a">
+     <img width="498" alt="log in account" src="https://github.com/riaj786/c-project-1st-semester/assets/143274836/3b86683d-d86c-4654-ae26-dfe48e66543d">
+
+
 
